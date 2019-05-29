@@ -1,0 +1,24 @@
+\subsection{IUA9 Agregar Medicamento a Tratamiento del Paciente}
+ 
+\subsubsection{Objetivo}
+
+    Esta pantalla permite al actor agregar un nuevo medicamento a algún tratamiento médico.
+
+\subsubsection{Diseño}
+
+    En la figura \ref{IUA9} se muestra la pantalla ``Agregar Medicamento al Tratamiento'', por medio de la cual se podrá agregar los medicamentos necesarios para completar el tratamiento médico. \\
+
+    \IUfig[.3]{pantallas/agregarMedicamento}{IUA9}{Agregar Medicamento a Tratamiento del Paciente}
+
+\subsubsection{Comandos}
+\begin{itemize}
+    \item \cdtButton{No encuentra su medicamento}: Permite al actor agregar un nuevo medicamento que no se encuentre dentro del catálogo de medicamentos.
+    \item \cdtButton{Agregar}: Permite al actor agregar un nuevo medicamento al tratamiento seleccionado.
+\end{itemize}
+
+\subsubsection{Mensajes}
+
+\begin{description}
+    \item[\cdtIdRef{MSG2}{Falta un dato requerido para efectuar la operación solicitada}:] Se muestra en la pantalla \cdtIdRef{IUA9}{Agregar Medicamento a Tratamiento del Paciente} cuando el actor omitió un dato marcado como requerido.
+   
+\end{description}

@@ -1,0 +1,28 @@
+\subsection{IUD2 Registro de Cuenta}
+ 
+\subsubsection{Objetivo}
+
+    Esta pantalla permite al actor registrar una nueva cuenta en el sistema.
+
+\subsubsection{Diseño}
+
+    En la figura \ref{IUP3} y \ref{IUP3-1}  se muestra las pantallas ``Registro de Cuenta'', por medio de la cual se podrá crear una nueva cuenta para  acceder al sistema. \\
+
+    \IUfig[.3]{pantallas/registroCuenta}{IUD2}{Registro de Cuenta}
+    \newpage
+    \IUfig[.3]{pantallas/registroCuenta2}{IUD2-1}{Registro de Cuenta}
+
+\subsubsection{Comandos}
+\begin{itemize}
+    \item \cdtButton{Obtener Número}: Permite al actor obtener su número celular.
+    \item \cdtButton{Siguiente}: Permite al actor continuar con el registro de cuenta, dirige a la pantalla \cdtIdRef{IUP3-1}{Registro de Cuenta}.
+    \item \cdtButton{Crear Cuenta}: Permite al actor crear una nueva cuenta para tener acceso al sistema
+    
+\end{itemize}
+
+\subsubsection{Mensajes}
+
+\begin{description}
+    \item[\cdtIdRef{MSG2}{Falta un dato requerido para efectuar la operación solicitada}:] Se muestra en la pantalla \cdtIdRef{IUP3}{Registro de Cuenta} cuando el actor omitió un dato marcado como requerido.
+    
+\end{description}
