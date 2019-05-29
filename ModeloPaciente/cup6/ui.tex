@@ -1,0 +1,24 @@
+\subsection{IUP5 Cambiar Contraseña}
+ 
+\subsubsection{Objetivo}
+
+    Esta pantalla permite al actor cambiar su contraseña de acceso al sistema en caso de que él lo solicite.
+
+\subsubsection{Diseño}
+
+    En la figura \ref{IUP6} se muestra la pantalla ``Cambiar Contraseña'', por medio de la cual se podrá cambiar su contraseña si así lo solicita. \\
+
+    \IUfig[.3]{pantallas/cambiarContrasena}{IUP6}{Cambiar Contraseña}
+
+\subsubsection{Comandos}
+\begin{itemize}
+    \item \cdtButton{Guardar Cambios}: Permite al actor guardar el cambio de su contraseña para posteriormente, ingresar al sistema con la nueva contraseña, dirige a la pantalla \cdtIdRef{IUP5}{Editar Datos Personales}.
+    \item \cdtButton{Cancelar}: Permite al actor cancelar el cambio de contraseña, dirige a la pantalla \cdtIdRef{IUP5}{Editar Datos Personales}.
+\end{itemize}
+
+\subsubsection{Mensajes}
+
+\begin{description}
+    \item[\cdtIdRef{MSG2}{Falta un dato requerido para efectuar la operación solicitada}:] Se muestra en la pantalla \cdtIdRef{IUP6}{Cambiar Contraseña} cuando el actor omitió un dato marcado como requerido.
+    \item[\cdtIdRef{MSG3}{Nombre de usuario y/o contraseña incorrecto}:] Se muestra en la pantalla \cdtIdRef{IUP6}{Cambiar Contraseña} indicando que la contraseña es incorrecta.
+\end{description}

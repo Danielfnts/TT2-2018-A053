@@ -1,0 +1,25 @@
+\subsection{IUP2 Recuperar Contraseña}
+ 
+\subsubsection{Objetivo}
+
+    Esta pantalla permite al actor solicitar el envio de su contraseña a su correo para poder recuperar la contraseña de acceso al sistema y/o cambiarla si así lo desea.
+
+\subsubsection{Diseño}
+
+    En la figura~\ref{IUP2} se muestra la pantalla ``Recuperar Contraseña'', por medio de la cual se podrá recuperar su contraseña de acceso al sistema. \\
+	\newpage
+    \IUfig[.3]{pantallas/recuperarContrasena}{IUP2}{Recuperar Contraseña}
+
+\subsubsection{Comandos}
+\begin{itemize}
+    \item \cdtButton{Regresar}: Permite al actor regresar a la pantalla de Iniciar Sesión que se muestra en la figura \cdtIdRef{IUP1}{Iniciar Sesión}.
+    \item \cdtButton{Recuperar Contraseña}: Permite al actor solicitar el envío de su contraseña a su correo.
+  
+\end{itemize}
+
+\subsubsection{Mensajes}
+
+\begin{description}
+    \item[\cdtIdRef{MSG2}{Falta un dato requerido para efectuar la operación solicitada}:] Se muestra en la pantalla \cdtIdRef{IUP2}{Recuperar Contraseña} cuando el actor omitió un dato marcado como requerido.
+    \item[\cdtIdRef{MSG3}{Correo electrónico y/o contraseña incorrecto}:] Se muestra en la pantalla \cdtIdRef{IUP2}{Recuperar Contraseña} indicando que el correo electrónico es incorrecto.
+\end{description}
