@@ -1,0 +1,96 @@
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Marco de la Metodolog\IeC {\'\i }a SCRUM}}{17}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Modelo de Desarrollo de Sistemas de Cascada}}{18}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces TT1 y TT2}}{19}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Arquitectura}}{20}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Modelo Relacional de Rem-Pills}}{23}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Proceso m\IeC {\'e}dico en la actualidad}}{29}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Sub-proceso Adquiere tratamiento en la actualidad}}{30}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Proceso m\IeC {\'e}dico con ayuda de la aplicaci\IeC {\'o}n}}{31}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Sub-proceso Adquiere tratamiento con ayuda de la aplicaci\IeC {\'o}n}}{32}{figure.2.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Proceso del Doctor}}{33}{figure.2.10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Proceso del Auxiliar}}{34}{figure.2.11}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Casos de uso del paciente}}{37}{figure.2.12}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Casos de uso del Doctor}}{38}{figure.2.13}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Casos de uso del Auxiliar}}{38}{figure.2.14}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces IUP1 Iniciar sesi\IeC {\'o}n}}{156}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces IUP3 Registro de Cuenta}}{157}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces IUP3-1 Registro de Cuenta}}{158}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces IUP4 Datos Personales}}{159}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces IUP5 Editar Datos Personales}}{160}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces IUP6 Cambiar Contrase\IeC {\~n}a}}{161}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces IUP7 Consultar Tratamiento}}{163}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces IUP8 Consultar Informaci\IeC {\'o}n del Tratamiento}}{164}{figure.6.8}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces IUP8 Editar Tratamiento}}{165}{figure.6.9}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces IUP9 Agregar Tratamiento}}{166}{figure.6.10}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces IUP10 Agregar Medicamento}}{167}{figure.6.11}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces IUP11 Agregar Doctor}}{168}{figure.6.12}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces IUP12 Consultar Doctor}}{169}{figure.6.13}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces IUP13 Recibir Recordatorios}}{170}{figure.6.14}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces IUP14 Consultar Recordatorios}}{171}{figure.6.15}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces IUP15 Agregar Auxiliar}}{172}{figure.6.16}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces IUP16 Editar Auxiliar}}{173}{figure.6.17}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces IUP17 Consultar Auxiliar}}{174}{figure.6.18}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces IUP18 Eliminar Auxiliar}}{175}{figure.6.19}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces IUD1 Iniciar sesi\IeC {\'o}n}}{176}{figure.6.20}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces IUD2 Registro de Cuenta}}{177}{figure.6.21}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces IUD2-1 Registro de Cuenta}}{178}{figure.6.22}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces IUD3 Datos Personales}}{179}{figure.6.23}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces IUD4 Editar Datos Personales}}{180}{figure.6.24}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces IUD5 Consultar Pacientes}}{181}{figure.6.25}
+\contentsline {figure}{\numberline {6.26}{\ignorespaces IUD6 Consultar Tratamiento de Pacientes}}{182}{figure.6.26}
+\contentsline {figure}{\numberline {6.27}{\ignorespaces IUD7 Editar Tratamiento}}{183}{figure.6.27}
+\contentsline {figure}{\numberline {6.28}{\ignorespaces IUD8 Eliminar Tratamiento de Pacientes}}{184}{figure.6.28}
+\contentsline {figure}{\numberline {6.29}{\ignorespaces IUD9 Agregar Paciente Nuevo}}{185}{figure.6.29}
+\contentsline {figure}{\numberline {6.30}{\ignorespaces IUD10 Agregar Tratamiento}}{186}{figure.6.30}
+\contentsline {figure}{\numberline {6.31}{\ignorespaces IUD11 Agregar Medicamento a Tratamiento}}{187}{figure.6.31}
+\contentsline {figure}{\numberline {6.32}{\ignorespaces IUD12 Editar Paciente}}{188}{figure.6.32}
+\contentsline {figure}{\numberline {6.33}{\ignorespaces IUD13 Eliminar Paciente}}{189}{figure.6.33}
+\contentsline {figure}{\numberline {6.34}{\ignorespaces IUA1 Iniciar sesi\IeC {\'o}n}}{190}{figure.6.34}
+\contentsline {figure}{\numberline {6.35}{\ignorespaces IUA2 Registro de Cuenta}}{192}{figure.6.35}
+\contentsline {figure}{\numberline {6.36}{\ignorespaces IUA2-1 Registro de Cuenta}}{193}{figure.6.36}
+\contentsline {figure}{\numberline {6.37}{\ignorespaces IUD9 Agregar Paciente Nuevo}}{194}{figure.6.37}
+\contentsline {figure}{\numberline {6.38}{\ignorespaces IUD12 Editar Paciente}}{195}{figure.6.38}
+\contentsline {figure}{\numberline {6.39}{\ignorespaces IUA5 Eliminar Paciente}}{196}{figure.6.39}
+\contentsline {figure}{\numberline {6.40}{\ignorespaces IUA6 Consultar Tratamiento de Pacientes}}{198}{figure.6.40}
+\contentsline {figure}{\numberline {6.41}{\ignorespaces IUA7 Agregar Tratamiento al Paciente}}{199}{figure.6.41}
+\contentsline {figure}{\numberline {6.42}{\ignorespaces IUA8 Eliminar Tratamiento del Paciente}}{200}{figure.6.42}
+\contentsline {figure}{\numberline {6.43}{\ignorespaces IUA9 Agregar Medicamento a Tratamiento del Paciente}}{201}{figure.6.43}
+\contentsline {figure}{\numberline {6.44}{\ignorespaces IUA10 Consultar Recordatorios}}{202}{figure.6.44}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Usuarios}}{220}{figure.10.1}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Pruebas}}{221}{figure.10.2}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Incidencias}}{221}{figure.10.3}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Usuarios}}{222}{figure.10.4}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Pruebas}}{222}{figure.10.5}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Pruebas}}{223}{figure.10.6}
+\contentsline {figure}{\numberline {10.7}{\ignorespaces Incidencias}}{223}{figure.10.7}
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Usuarios}}{224}{figure.10.8}
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Pruebas}}{224}{figure.10.9}
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Pruebas}}{225}{figure.10.10}
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Incidencias}}{225}{figure.10.11}
+\contentsline {figure}{\numberline {10.12}{\ignorespaces Usuarios}}{226}{figure.10.12}
+\contentsline {figure}{\numberline {10.13}{\ignorespaces Pruebas}}{227}{figure.10.13}
+\contentsline {figure}{\numberline {10.14}{\ignorespaces Pruebas}}{227}{figure.10.14}
+\contentsline {figure}{\numberline {10.15}{\ignorespaces Cuestionario Rem-Pills}}{229}{figure.10.15}
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Cuestionario Rem-Pills}}{229}{figure.10.16}
+\contentsline {figure}{\numberline {10.17}{\ignorespaces Cuestionario Rem-Pills}}{230}{figure.10.17}
+\contentsline {figure}{\numberline {10.18}{\ignorespaces Cuestionario Rem-Pills}}{230}{figure.10.18}
+\contentsline {figure}{\numberline {10.19}{\ignorespaces Cuestionario Rem-Pills}}{231}{figure.10.19}
+\contentsline {figure}{\numberline {10.20}{\ignorespaces Cuestionario Rem-Pills}}{231}{figure.10.20}
+\contentsline {figure}{\numberline {10.21}{\ignorespaces Cuestionario Rem-Pills}}{232}{figure.10.21}
+\contentsline {figure}{\numberline {10.22}{\ignorespaces Cuestionario Rem-Pills}}{232}{figure.10.22}
+\contentsline {figure}{\numberline {10.23}{\ignorespaces Cuestionario Rem-Pills}}{233}{figure.10.23}
+\contentsline {figure}{\numberline {10.24}{\ignorespaces Cuestionario Rem-Pills}}{233}{figure.10.24}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

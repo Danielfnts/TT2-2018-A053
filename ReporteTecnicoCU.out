@@ -1,0 +1,264 @@
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Antecedentes}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Herramientas Utilizadas}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Problem\341tica}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Soluci\363n Propuesta Por Otras Aplicaciones}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Objetivos}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Justificaci\363n}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.7}{Soluci\363n Propuesta}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.8}{An\341lisis de factibilidad}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{An\341lisis y Dise\361o del Sistema}{}% 10
+\BOOKMARK [1][-]{section.2.1}{Metodolog\355a}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{Arquitectura}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.3}{M\363dulos}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.4}{Modelo Relacional}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.5}{Requerimientos}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.6}{Procesos}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.7}{Casos de uso}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Modelo de Comportamiento del Paciente: Casos de Uso del paciente }{}% 18
+\BOOKMARK [1][-]{section.3.1}{CUP1 Iniciar Sesi\363n}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Resumen}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.2}{Descripci\363n}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.3}{Trayectorias del caso de uso}{section.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.1.4}{Puntos de extensi\363n}{section.3.1}% 23
+\BOOKMARK [1][-]{section.3.2}{CUP2 Registro de Cuenta}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.2.1}{Resumen}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.2}{Descripci\363n}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.3}{Trayectorias del caso de uso}{section.3.2}% 27
+\BOOKMARK [1][-]{section.3.3}{CUP3 Consultar Datos Personales}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.1}{Resumen}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.2}{Descripci\363n}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.3}{Trayectorias del caso de uso}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.4}{Puntos de extensi\363n}{section.3.3}% 32
+\BOOKMARK [1][-]{section.3.4}{CUP4 Editar Datos Personales}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.4.1}{Resumen}{section.3.4}% 34
+\BOOKMARK [2][-]{subsection.3.4.2}{Descripci\363n}{section.3.4}% 35
+\BOOKMARK [2][-]{subsection.3.4.3}{Trayectorias del caso de uso}{section.3.4}% 36
+\BOOKMARK [1][-]{section.3.5}{CUP5 Cambiar Contrase\361a}{chapter.3}% 37
+\BOOKMARK [2][-]{subsection.3.5.1}{Resumen}{section.3.5}% 38
+\BOOKMARK [2][-]{subsection.3.5.2}{Descripci\363n}{section.3.5}% 39
+\BOOKMARK [2][-]{subsection.3.5.3}{Trayectorias del caso de uso}{section.3.5}% 40
+\BOOKMARK [1][-]{section.3.6}{CUP6 Consultar Tratamiento}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.6.1}{Resumen}{section.3.6}% 42
+\BOOKMARK [2][-]{subsection.3.6.2}{Descripci\363n}{section.3.6}% 43
+\BOOKMARK [2][-]{subsection.3.6.3}{Trayectorias del caso de uso}{section.3.6}% 44
+\BOOKMARK [2][-]{subsection.3.6.4}{Puntos de extensi\363n}{section.3.6}% 45
+\BOOKMARK [1][-]{section.3.7}{CUP7 Consultar Informaci\363n de Tratamiento}{chapter.3}% 46
+\BOOKMARK [2][-]{subsection.3.7.1}{Resumen}{section.3.7}% 47
+\BOOKMARK [2][-]{subsection.3.7.2}{Descripci\363n}{section.3.7}% 48
+\BOOKMARK [2][-]{subsection.3.7.3}{Trayectorias del caso de uso}{section.3.7}% 49
+\BOOKMARK [1][-]{section.3.8}{CUP8 Editar Tratamiento}{chapter.3}% 50
+\BOOKMARK [2][-]{subsection.3.8.1}{Resumen}{section.3.8}% 51
+\BOOKMARK [2][-]{subsection.3.8.2}{Descripci\363n}{section.3.8}% 52
+\BOOKMARK [2][-]{subsection.3.8.3}{Trayectorias del caso de uso}{section.3.8}% 53
+\BOOKMARK [2][-]{subsection.3.8.4}{Puntos de extensi\363n}{section.3.8}% 54
+\BOOKMARK [1][-]{section.3.9}{CUP9 Agregar Tratamiento}{chapter.3}% 55
+\BOOKMARK [2][-]{subsection.3.9.1}{Resumen}{section.3.9}% 56
+\BOOKMARK [2][-]{subsection.3.9.2}{Descripci\363n}{section.3.9}% 57
+\BOOKMARK [2][-]{subsection.3.9.3}{Trayectorias del caso de uso}{section.3.9}% 58
+\BOOKMARK [2][-]{subsection.3.9.4}{Puntos de extensi\363n}{section.3.9}% 59
+\BOOKMARK [1][-]{section.3.10}{CUP10 Agregar Medicamento}{chapter.3}% 60
+\BOOKMARK [2][-]{subsection.3.10.1}{Resumen}{section.3.10}% 61
+\BOOKMARK [2][-]{subsection.3.10.2}{Descripci\363n}{section.3.10}% 62
+\BOOKMARK [2][-]{subsection.3.10.3}{Trayectorias del caso de uso}{section.3.10}% 63
+\BOOKMARK [2][-]{subsection.3.10.4}{Puntos de extensi\363n}{section.3.10}% 64
+\BOOKMARK [1][-]{section.3.11}{CUP11 Agregar Doctor}{chapter.3}% 65
+\BOOKMARK [2][-]{subsection.3.11.1}{Resumen}{section.3.11}% 66
+\BOOKMARK [2][-]{subsection.3.11.2}{Descripci\363n}{section.3.11}% 67
+\BOOKMARK [2][-]{subsection.3.11.3}{Trayectorias del caso de uso}{section.3.11}% 68
+\BOOKMARK [1][-]{section.3.12}{CUP12 Consultar Doctor}{chapter.3}% 69
+\BOOKMARK [2][-]{subsection.3.12.1}{Resumen}{section.3.12}% 70
+\BOOKMARK [2][-]{subsection.3.12.2}{Descripci\363n}{section.3.12}% 71
+\BOOKMARK [2][-]{subsection.3.12.3}{Trayectorias del caso de uso}{section.3.12}% 72
+\BOOKMARK [2][-]{subsection.3.12.4}{Puntos de extensi\363n}{section.3.12}% 73
+\BOOKMARK [1][-]{section.3.13}{CUP13 Recibir Recordatorios}{chapter.3}% 74
+\BOOKMARK [2][-]{subsection.3.13.1}{Resumen}{section.3.13}% 75
+\BOOKMARK [2][-]{subsection.3.13.2}{Descripci\363n}{section.3.13}% 76
+\BOOKMARK [2][-]{subsection.3.13.3}{Trayectorias del caso de uso}{section.3.13}% 77
+\BOOKMARK [1][-]{section.3.14}{CUP14 Consultar Recordatorios}{chapter.3}% 78
+\BOOKMARK [2][-]{subsection.3.14.1}{Resumen}{section.3.14}% 79
+\BOOKMARK [2][-]{subsection.3.14.2}{Descripci\363n}{section.3.14}% 80
+\BOOKMARK [2][-]{subsection.3.14.3}{Trayectorias del caso de uso}{section.3.14}% 81
+\BOOKMARK [1][-]{section.3.15}{CUP15 Agregar Auxiliar}{chapter.3}% 82
+\BOOKMARK [2][-]{subsection.3.15.1}{Resumen}{section.3.15}% 83
+\BOOKMARK [2][-]{subsection.3.15.2}{Descripci\363n}{section.3.15}% 84
+\BOOKMARK [2][-]{subsection.3.15.3}{Trayectorias del caso de uso}{section.3.15}% 85
+\BOOKMARK [1][-]{section.3.16}{CUP16 Editar Auxiliar}{chapter.3}% 86
+\BOOKMARK [2][-]{subsection.3.16.1}{Resumen}{section.3.16}% 87
+\BOOKMARK [2][-]{subsection.3.16.2}{Descripci\363n}{section.3.16}% 88
+\BOOKMARK [2][-]{subsection.3.16.3}{Trayectorias del caso de uso}{section.3.16}% 89
+\BOOKMARK [1][-]{section.3.17}{CUP17 Consultar Auxiliar}{chapter.3}% 90
+\BOOKMARK [2][-]{subsection.3.17.1}{Resumen}{section.3.17}% 91
+\BOOKMARK [2][-]{subsection.3.17.2}{Descripci\363n}{section.3.17}% 92
+\BOOKMARK [2][-]{subsection.3.17.3}{Trayectorias del caso de uso}{section.3.17}% 93
+\BOOKMARK [2][-]{subsection.3.17.4}{Puntos de extensi\363n}{section.3.17}% 94
+\BOOKMARK [1][-]{section.3.18}{CUP18 Eliminar Auxiliar}{chapter.3}% 95
+\BOOKMARK [2][-]{subsection.3.18.1}{Resumen}{section.3.18}% 96
+\BOOKMARK [2][-]{subsection.3.18.2}{Descripci\363n}{section.3.18}% 97
+\BOOKMARK [2][-]{subsection.3.18.3}{Trayectorias del caso de uso}{section.3.18}% 98
+\BOOKMARK [0][-]{chapter.4}{Modelo de Comportamiento del Doctor: Casos de Uso del doctor }{}% 99
+\BOOKMARK [1][-]{section.4.1}{CUD1 Iniciar Sesi\363n}{chapter.4}% 100
+\BOOKMARK [2][-]{subsection.4.1.1}{Resumen}{section.4.1}% 101
+\BOOKMARK [2][-]{subsection.4.1.2}{Descripci\363n}{section.4.1}% 102
+\BOOKMARK [2][-]{subsection.4.1.3}{Trayectorias del caso de uso}{section.4.1}% 103
+\BOOKMARK [2][-]{subsection.4.1.4}{Puntos de extensi\363n}{section.4.1}% 104
+\BOOKMARK [1][-]{section.4.2}{CUD2 Registro de Cuenta}{chapter.4}% 105
+\BOOKMARK [2][-]{subsection.4.2.1}{Resumen}{section.4.2}% 106
+\BOOKMARK [2][-]{subsection.4.2.2}{Descripci\363n}{section.4.2}% 107
+\BOOKMARK [2][-]{subsection.4.2.3}{Trayectorias del caso de uso}{section.4.2}% 108
+\BOOKMARK [1][-]{section.4.3}{CUD3 Consultar Datos Personales}{chapter.4}% 109
+\BOOKMARK [2][-]{subsection.4.3.1}{Resumen}{section.4.3}% 110
+\BOOKMARK [2][-]{subsection.4.3.2}{Descripci\363n}{section.4.3}% 111
+\BOOKMARK [2][-]{subsection.4.3.3}{Trayectorias del caso de uso}{section.4.3}% 112
+\BOOKMARK [2][-]{subsection.4.3.4}{Puntos de extensi\363n}{section.4.3}% 113
+\BOOKMARK [1][-]{section.4.4}{CUD4 Editar Datos Personales}{chapter.4}% 114
+\BOOKMARK [2][-]{subsection.4.4.1}{Resumen}{section.4.4}% 115
+\BOOKMARK [2][-]{subsection.4.4.2}{Descripci\363n}{section.4.4}% 116
+\BOOKMARK [2][-]{subsection.4.4.3}{Trayectorias del caso de uso}{section.4.4}% 117
+\BOOKMARK [1][-]{section.4.5}{CUD5 Consultar Pacientes}{chapter.4}% 118
+\BOOKMARK [2][-]{subsection.4.5.1}{Resumen}{section.4.5}% 119
+\BOOKMARK [2][-]{subsection.4.5.2}{Descripci\363n}{section.4.5}% 120
+\BOOKMARK [2][-]{subsection.4.5.3}{Trayectorias del caso de uso}{section.4.5}% 121
+\BOOKMARK [2][-]{subsection.4.5.4}{Puntos de extensi\363n}{section.4.5}% 122
+\BOOKMARK [1][-]{section.4.6}{CUD6 Consultar Tratamiento de Pacientes}{chapter.4}% 123
+\BOOKMARK [2][-]{subsection.4.6.1}{Resumen}{section.4.6}% 124
+\BOOKMARK [2][-]{subsection.4.6.2}{Descripci\363n}{section.4.6}% 125
+\BOOKMARK [2][-]{subsection.4.6.3}{Trayectorias del caso de uso}{section.4.6}% 126
+\BOOKMARK [2][-]{subsection.4.6.4}{Puntos de extensi\363n}{section.4.6}% 127
+\BOOKMARK [1][-]{section.4.7}{CUD7 Editar Tratamiento de Pacientes}{chapter.4}% 128
+\BOOKMARK [2][-]{subsection.4.7.1}{Resumen}{section.4.7}% 129
+\BOOKMARK [2][-]{subsection.4.7.2}{Descripci\363n}{section.4.7}% 130
+\BOOKMARK [2][-]{subsection.4.7.3}{Trayectorias del caso de uso}{section.4.7}% 131
+\BOOKMARK [1][-]{section.4.8}{CUD8 Eliminar Tratamiento de Pacientes}{chapter.4}% 132
+\BOOKMARK [2][-]{subsection.4.8.1}{Resumen}{section.4.8}% 133
+\BOOKMARK [2][-]{subsection.4.8.2}{Descripci\363n}{section.4.8}% 134
+\BOOKMARK [2][-]{subsection.4.8.3}{Trayectorias del caso de uso}{section.4.8}% 135
+\BOOKMARK [1][-]{section.4.9}{CUD9 Agregar Paciente Nuevo}{chapter.4}% 136
+\BOOKMARK [2][-]{subsection.4.9.1}{Resumen}{section.4.9}% 137
+\BOOKMARK [2][-]{subsection.4.9.2}{Descripci\363n}{section.4.9}% 138
+\BOOKMARK [2][-]{subsection.4.9.3}{Trayectorias del caso de uso}{section.4.9}% 139
+\BOOKMARK [1][-]{section.4.10}{CUD10 Agregar Tratamiento a Paciente Nuevo}{chapter.4}% 140
+\BOOKMARK [2][-]{subsection.4.10.1}{Resumen}{section.4.10}% 141
+\BOOKMARK [2][-]{subsection.4.10.2}{Descripci\363n}{section.4.10}% 142
+\BOOKMARK [2][-]{subsection.4.10.3}{Trayectorias del caso de uso}{section.4.10}% 143
+\BOOKMARK [1][-]{section.4.11}{CUD11 Agregar Medicamento a Tratamiento}{chapter.4}% 144
+\BOOKMARK [2][-]{subsection.4.11.1}{Resumen}{section.4.11}% 145
+\BOOKMARK [2][-]{subsection.4.11.2}{Descripci\363n}{section.4.11}% 146
+\BOOKMARK [2][-]{subsection.4.11.3}{Trayectorias del caso de uso}{section.4.11}% 147
+\BOOKMARK [1][-]{section.4.12}{CUD12 Editar Paciente}{chapter.4}% 148
+\BOOKMARK [2][-]{subsection.4.12.1}{Resumen}{section.4.12}% 149
+\BOOKMARK [2][-]{subsection.4.12.2}{Descripci\363n}{section.4.12}% 150
+\BOOKMARK [2][-]{subsection.4.12.3}{Trayectorias del caso de uso}{section.4.12}% 151
+\BOOKMARK [1][-]{section.4.13}{CUD13 Eliminar Paciente}{chapter.4}% 152
+\BOOKMARK [2][-]{subsection.4.13.1}{Resumen}{section.4.13}% 153
+\BOOKMARK [2][-]{subsection.4.13.2}{Descripci\363n}{section.4.13}% 154
+\BOOKMARK [2][-]{subsection.4.13.3}{Trayectorias del caso de uso}{section.4.13}% 155
+\BOOKMARK [0][-]{chapter.5}{Modelo de Comportamiento del Auxiliar: Casos de Uso del auxiliar }{}% 156
+\BOOKMARK [1][-]{section.5.1}{CUA1 Iniciar Sesi\363n}{chapter.5}% 157
+\BOOKMARK [2][-]{subsection.5.1.1}{Resumen}{section.5.1}% 158
+\BOOKMARK [2][-]{subsection.5.1.2}{Descripci\363n}{section.5.1}% 159
+\BOOKMARK [2][-]{subsection.5.1.3}{Trayectorias del caso de uso}{section.5.1}% 160
+\BOOKMARK [2][-]{subsection.5.1.4}{Puntos de extensi\363n}{section.5.1}% 161
+\BOOKMARK [1][-]{section.5.2}{CUA2 Registro de Cuenta}{chapter.5}% 162
+\BOOKMARK [2][-]{subsection.5.2.1}{Resumen}{section.5.2}% 163
+\BOOKMARK [2][-]{subsection.5.2.2}{Descripci\363n}{section.5.2}% 164
+\BOOKMARK [2][-]{subsection.5.2.3}{Trayectorias del caso de uso}{section.5.2}% 165
+\BOOKMARK [1][-]{section.5.3}{CUA3 Agregar Paciente}{chapter.5}% 166
+\BOOKMARK [2][-]{subsection.5.3.1}{Resumen}{section.5.3}% 167
+\BOOKMARK [2][-]{subsection.5.3.2}{Descripci\363n}{section.5.3}% 168
+\BOOKMARK [2][-]{subsection.5.3.3}{Trayectorias del caso de uso}{section.5.3}% 169
+\BOOKMARK [1][-]{section.5.4}{CUA4 Editar Paciente}{chapter.5}% 170
+\BOOKMARK [2][-]{subsection.5.4.1}{Resumen}{section.5.4}% 171
+\BOOKMARK [2][-]{subsection.5.4.2}{Descripci\363n}{section.5.4}% 172
+\BOOKMARK [2][-]{subsection.5.4.3}{Trayectorias del caso de uso}{section.5.4}% 173
+\BOOKMARK [1][-]{section.5.5}{CUA5 Eliminar Paciente}{chapter.5}% 174
+\BOOKMARK [2][-]{subsection.5.5.1}{Resumen}{section.5.5}% 175
+\BOOKMARK [2][-]{subsection.5.5.2}{Descripci\363n}{section.5.5}% 176
+\BOOKMARK [2][-]{subsection.5.5.3}{Trayectorias del caso de uso}{section.5.5}% 177
+\BOOKMARK [1][-]{section.5.6}{CUA6 Consultar Tratamiento del Paciente}{chapter.5}% 178
+\BOOKMARK [2][-]{subsection.5.6.1}{Resumen}{section.5.6}% 179
+\BOOKMARK [2][-]{subsection.5.6.2}{Descripci\363n}{section.5.6}% 180
+\BOOKMARK [2][-]{subsection.5.6.3}{Trayectorias del caso de uso}{section.5.6}% 181
+\BOOKMARK [2][-]{subsection.5.6.4}{Puntos de extensi\363n}{section.5.6}% 182
+\BOOKMARK [1][-]{section.5.7}{CUA7 Agregar Tratamiento al Paciente}{chapter.5}% 183
+\BOOKMARK [2][-]{subsection.5.7.1}{Resumen}{section.5.7}% 184
+\BOOKMARK [2][-]{subsection.5.7.2}{Descripci\363n}{section.5.7}% 185
+\BOOKMARK [2][-]{subsection.5.7.3}{Trayectorias del caso de uso}{section.5.7}% 186
+\BOOKMARK [1][-]{section.5.8}{CUA8 Eliminar Tratamiento del Paciente}{chapter.5}% 187
+\BOOKMARK [2][-]{subsection.5.8.1}{Resumen}{section.5.8}% 188
+\BOOKMARK [2][-]{subsection.5.8.2}{Descripci\363n}{section.5.8}% 189
+\BOOKMARK [2][-]{subsection.5.8.3}{Trayectorias del caso de uso}{section.5.8}% 190
+\BOOKMARK [1][-]{section.5.9}{CUA9 Agregar Medicamento a Tratamiento del Paciente}{chapter.5}% 191
+\BOOKMARK [2][-]{subsection.5.9.1}{Resumen}{section.5.9}% 192
+\BOOKMARK [2][-]{subsection.5.9.2}{Descripci\363n}{section.5.9}% 193
+\BOOKMARK [2][-]{subsection.5.9.3}{Trayectorias del caso de uso}{section.5.9}% 194
+\BOOKMARK [1][-]{section.5.10}{CUA10 Consultar Recordatorios}{chapter.5}% 195
+\BOOKMARK [2][-]{subsection.5.10.1}{Resumen}{section.5.10}% 196
+\BOOKMARK [2][-]{subsection.5.10.2}{Descripci\363n}{section.5.10}% 197
+\BOOKMARK [2][-]{subsection.5.10.3}{Trayectorias del caso de uso}{section.5.10}% 198
+\BOOKMARK [0][-]{chapter.6}{Interfaces del sistema}{}% 199
+\BOOKMARK [1][-]{section.6.1}{Interfaces del sistema: Paciente}{chapter.6}% 200
+\BOOKMARK [2][-]{subsection.6.1.1}{IUP1 Iniciar sesi\363n}{section.6.1}% 201
+\BOOKMARK [2][-]{subsection.6.1.2}{IUP2 Registro de Cuenta}{section.6.1}% 202
+\BOOKMARK [2][-]{subsection.6.1.3}{IUP3 Consultar Datos Personales}{section.6.1}% 203
+\BOOKMARK [2][-]{subsection.6.1.4}{IUP4 Editar Datos Personales}{section.6.1}% 204
+\BOOKMARK [2][-]{subsection.6.1.5}{IUP5 Cambiar Contrase\361a}{section.6.1}% 205
+\BOOKMARK [2][-]{subsection.6.1.6}{IUP6 Consultar Tratamiento}{section.6.1}% 206
+\BOOKMARK [2][-]{subsection.6.1.7}{IUP7 Consultar Informaci\363n del Tratamiento}{section.6.1}% 207
+\BOOKMARK [2][-]{subsection.6.1.8}{IUP8 Editar Tratamiento}{section.6.1}% 208
+\BOOKMARK [2][-]{subsection.6.1.9}{IUP9 Agregar Tratamiento}{section.6.1}% 209
+\BOOKMARK [2][-]{subsection.6.1.10}{IUP10 Agregar Medicamento}{section.6.1}% 210
+\BOOKMARK [2][-]{subsection.6.1.11}{IUP11 Agregar Doctor}{section.6.1}% 211
+\BOOKMARK [2][-]{subsection.6.1.12}{IUP12 Consultar Doctor}{section.6.1}% 212
+\BOOKMARK [2][-]{subsection.6.1.13}{IUP13 Recibir Recordatorios}{section.6.1}% 213
+\BOOKMARK [2][-]{subsection.6.1.14}{IUP14 Consultar Recordatorios}{section.6.1}% 214
+\BOOKMARK [2][-]{subsection.6.1.15}{IUP15 Agregar Auxiliar}{section.6.1}% 215
+\BOOKMARK [2][-]{subsection.6.1.16}{IUP16 Editar Auxiliar}{section.6.1}% 216
+\BOOKMARK [2][-]{subsection.6.1.17}{IUP17 Consultar Auxiliar}{section.6.1}% 217
+\BOOKMARK [2][-]{subsection.6.1.18}{IUP18 Eliminar Auxiliar}{section.6.1}% 218
+\BOOKMARK [1][-]{section.6.2}{Interfaces del sistema: Doctor}{chapter.6}% 219
+\BOOKMARK [2][-]{subsection.6.2.1}{IUD1 Iniciar sesi\363n}{section.6.2}% 220
+\BOOKMARK [2][-]{subsection.6.2.2}{IUD2 Registro de Cuenta}{section.6.2}% 221
+\BOOKMARK [2][-]{subsection.6.2.3}{IUD3 Consultar Datos Personales}{section.6.2}% 222
+\BOOKMARK [2][-]{subsection.6.2.4}{IUD4 Editar Datos Personales}{section.6.2}% 223
+\BOOKMARK [2][-]{subsection.6.2.5}{IUD5 Consultar Pacientes}{section.6.2}% 224
+\BOOKMARK [2][-]{subsection.6.2.6}{IUD6 Consultar Tratamiento de Pacientes}{section.6.2}% 225
+\BOOKMARK [2][-]{subsection.6.2.7}{IUD7 Editar Tratamiento de Pacientes}{section.6.2}% 226
+\BOOKMARK [2][-]{subsection.6.2.8}{IUD8 Eliminar Tratamiento de Pacientes}{section.6.2}% 227
+\BOOKMARK [2][-]{subsection.6.2.9}{IUD9 Agregar Paciente Nuevo}{section.6.2}% 228
+\BOOKMARK [2][-]{subsection.6.2.10}{IUD10 Agregar Tratamiento}{section.6.2}% 229
+\BOOKMARK [2][-]{subsection.6.2.11}{IUD11 Agregar Medicamento a Tratamiento}{section.6.2}% 230
+\BOOKMARK [2][-]{subsection.6.2.12}{IUD12 Editar Paciente}{section.6.2}% 231
+\BOOKMARK [2][-]{subsection.6.2.13}{IUD13 Eliminar Paciente}{section.6.2}% 232
+\BOOKMARK [1][-]{section.6.3}{Interfaces del sistema: Auxiliar}{chapter.6}% 233
+\BOOKMARK [2][-]{subsection.6.3.1}{IUA1 Iniciar sesi\363n}{section.6.3}% 234
+\BOOKMARK [2][-]{subsection.6.3.2}{IUA2 Registro de Cuenta}{section.6.3}% 235
+\BOOKMARK [2][-]{subsection.6.3.3}{IUA3 Agregar Paciente}{section.6.3}% 236
+\BOOKMARK [2][-]{subsection.6.3.4}{IUA4 Editar Paciente}{section.6.3}% 237
+\BOOKMARK [2][-]{subsection.6.3.5}{IUA5 Eliminar Paciente}{section.6.3}% 238
+\BOOKMARK [2][-]{subsection.6.3.6}{IUA6 Consultar Tratamiento de Pacientes}{section.6.3}% 239
+\BOOKMARK [2][-]{subsection.6.3.7}{IUA7 Agregar Tratamiento al Paciente}{section.6.3}% 240
+\BOOKMARK [2][-]{subsection.6.3.8}{IUA8 Eliminar Tratamiento del Paciente}{section.6.3}% 241
+\BOOKMARK [2][-]{subsection.6.3.9}{IUA9 Agregar Medicamento a Tratamiento del Paciente}{section.6.3}% 242
+\BOOKMARK [2][-]{subsection.6.3.10}{IUA10 Consultar Recordatorios}{section.6.3}% 243
+\BOOKMARK [0][-]{chapter.7}{Modelo de Interacci\363n}{}% 244
+\BOOKMARK [1][-]{section.7.1}{Modelo de Interacci\363n}{chapter.7}% 245
+\BOOKMARK [2][-]{subsection.7.1.1}{Par\341metros comunes}{section.7.1}% 246
+\BOOKMARK [2][-]{subsection.7.1.2}{Mensajes a trav\351s de la pantalla}{section.7.1}% 247
+\BOOKMARK [0][-]{chapter.8}{Modelo de Negocios}{}% 248
+\BOOKMARK [1][-]{section.8.1}{Modelo de Negocios}{chapter.8}% 249
+\BOOKMARK [2][-]{subsection.8.1.1}{Reglas de negocio}{section.8.1}% 250
+\BOOKMARK [0][-]{chapter.9}{Resultados}{}% 251
+\BOOKMARK [1][-]{section.9.1}{Resultados}{chapter.9}% 252
+\BOOKMARK [0][-]{chapter.10}{Pruebas}{}% 253
+\BOOKMARK [1][-]{section.10.1}{Pruebas T\351cnicas}{chapter.10}% 254
+\BOOKMARK [2][-]{subsection.10.1.1}{Primer Ciclo de Pruebas}{section.10.1}% 255
+\BOOKMARK [2][-]{subsection.10.1.2}{Segundo Ciclo de Pruebas}{section.10.1}% 256
+\BOOKMARK [2][-]{subsection.10.1.3}{Tercer Ciclo de Pruebas}{section.10.1}% 257
+\BOOKMARK [2][-]{subsection.10.1.4}{Cuarto Ciclo de Pruebas}{section.10.1}% 258
+\BOOKMARK [1][-]{section.10.2}{Pruebas de Usuario}{chapter.10}% 259
+\BOOKMARK [0][-]{chapter.11}{Conclusi\363n}{}% 260
+\BOOKMARK [1][-]{section.11.1}{Conclusi\363n}{chapter.11}% 261
+\BOOKMARK [0][-]{chapter.12}{Trabajo a Futuro}{}% 262
+\BOOKMARK [1][-]{section.12.1}{Trabajo a Futuro}{chapter.12}% 263
+\BOOKMARK [0][-]{chapter.13}{Bibliograf\355a}{}% 264
